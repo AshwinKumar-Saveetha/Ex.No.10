@@ -1,6 +1,7 @@
 ## **Ex.No.10 – Content Creation Using Prompt Patterns**
 
 **Date:** 17.05.2025
+
 **Reg. No.:** 212223040021
 
 ### **Aim:**
